@@ -14,3 +14,6 @@ Yes it is confirmed that VSC is getting the credential from the Git desktop on w
 ***************************** ssh authentication ****************************
 1) cp ssh key/pair from the node red ~/.node-red/.sshkey folder does not work
 Have to find a way to set git with existing key
+2) It is easier to generate a new key/pair and follow the instruction from
+https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
